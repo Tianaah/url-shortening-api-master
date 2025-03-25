@@ -31,12 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop-active-states.jpg)
+![](./images/FireShot%20Capture%20013%20-%20Shortly%20URL%20Shortening%20API%20-%20[127.0.0.1].png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Tianaah/url-shortening-api-master)
+- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/)
 
 ## My process
 
