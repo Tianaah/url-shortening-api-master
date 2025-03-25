@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tianaah/url-shortening-api-master)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/)
+- Solution URL: (https://github.com/Tianaah/url-shortening-api-master)
+- Live Site URL: (http://127.0.0.1:5500/)
 
 ## My process
 
